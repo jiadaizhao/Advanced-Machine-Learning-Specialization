@@ -1,2 +1,11 @@
 
 *.pyc
+*.hdf5
+*.h5
+*.gz
+*.npz
+*.tgz
+*.mat
+*.zip
+Introduction to Deep Learning/readonly/week4/lfw_attributes.txt
+*.pickle
