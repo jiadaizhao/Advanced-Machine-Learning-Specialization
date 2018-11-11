@@ -9,3 +9,6 @@
 *.zip
 Introduction to Deep Learning/readonly/week4/lfw_attributes.txt
 *.pickle
+*.index
+*.meta
+*.data-00000-of-00001
