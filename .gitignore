@@ -12,3 +12,4 @@ Introduction to Deep Learning/readonly/week4/lfw_attributes.txt
 *.index
 *.meta
 *.data-00000-of-00001
+*.csv
