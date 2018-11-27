@@ -13,3 +13,8 @@ Introduction to Deep Learning/readonly/week4/lfw_attributes.txt
 *.meta
 *.data-00000-of-00001
 *.csv
+*.npy
+/How to Win a Data Science Competition Learn from Top Kagglers/Programming assignment week 4 CatBoost/catboost_info
+/How to Win a Data Science Competition Learn from Top Kagglers/Programming assignment week 4 CatBoost/learning_rate_0.05
+/How to Win a Data Science Competition Learn from Top Kagglers/Programming assignment week 4 CatBoost/learning_rate_0.5
+*.bin
