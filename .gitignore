@@ -24,3 +24,8 @@ Introduction to Deep Learning/readonly/week4/lfw_attributes.txt
 *.mp4
 Deep Learning in Computer Vision/Week2/facial-keypoints/data
 Deep Learning in Computer Vision/Week4/face-recognition-task/Face_Recognition_data
+Deep Learning in Computer Vision/Week5/gan-task/img_align_celeba
+Deep Learning in Computer Vision/Week5/gan-task/checkpoint
+Deep Learning in Computer Vision/Week5/gan-task/sample_faces
+Deep Learning in Computer Vision/Week5/gan-task/new_samples
+Deep Learning in Computer Vision/Week5/gan-task/face_interpolation
