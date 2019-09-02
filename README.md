@@ -1,2 +1,2 @@
-# Advanced-Machine-Learning-Specialization
-Advanced Machine Learning Specialization on Coursera
+# Deep Learning in Computer Vision
+Part of advanced Machine Learning Specialization on Coursera
